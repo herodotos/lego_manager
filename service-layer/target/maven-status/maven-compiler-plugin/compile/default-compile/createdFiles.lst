@@ -1,0 +1,15 @@
+cz/muni/fi/manager/PartBlueprintManager.class
+cz/muni/fi/manager/impl/PartManagerImpl.class
+cz/muni/fi/manager/KitManager.class
+cz/muni/fi/manager/CategoryManager.class
+cz/muni/fi/manager/PartManager.class
+cz/muni/fi/manager/impl/KitSetManagerImpl.class
+cz/muni/fi/manager/impl/PartBlueprintManagerImpl.class
+cz/muni/fi/dto/PartBlueprintDto.class
+cz/muni/fi/manager/impl/CategoryManagerImpl.class
+cz/muni/fi/manager/KitSetManager.class
+cz/muni/fi/dto/PartDto.class
+cz/muni/fi/dto/KitDto.class
+cz/muni/fi/dto/CategoryDto.class
+cz/muni/fi/dto/KitSetDto.class
+cz/muni/fi/manager/impl/KitManagerImpl.class

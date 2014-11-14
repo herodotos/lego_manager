@@ -1,0 +1,17 @@
+/Users/srogy/Documents/workspace/LegoManager/persistence-layer/src/main/java/cz/muni/fi/entity/PartBlueprint.java
+/Users/srogy/Documents/workspace/LegoManager/persistence-layer/src/main/java/cz/muni/fi/dao/CategoryDao.java
+/Users/srogy/Documents/workspace/LegoManager/persistence-layer/src/main/java/cz/muni/fi/entity/KitSet.java
+/Users/srogy/Documents/workspace/LegoManager/persistence-layer/src/main/java/cz/muni/fi/dao/PartBlueprintDao.java
+/Users/srogy/Documents/workspace/LegoManager/persistence-layer/src/main/java/cz/muni/fi/dao/KitSetDao.java
+/Users/srogy/Documents/workspace/LegoManager/persistence-layer/src/main/java/cz/muni/fi/dao/PartDao.java
+/Users/srogy/Documents/workspace/LegoManager/persistence-layer/src/main/java/cz/muni/fi/dao/GeneralDao.java
+/Users/srogy/Documents/workspace/LegoManager/persistence-layer/src/main/java/cz/muni/fi/entity/Part.java
+/Users/srogy/Documents/workspace/LegoManager/persistence-layer/src/main/java/cz/muni/fi/dao/impl/KitSetDaoImpl.java
+/Users/srogy/Documents/workspace/LegoManager/persistence-layer/src/main/java/cz/muni/fi/dao/impl/GeneralDaoImpl.java
+/Users/srogy/Documents/workspace/LegoManager/persistence-layer/src/main/java/cz/muni/fi/entity/Kit.java
+/Users/srogy/Documents/workspace/LegoManager/persistence-layer/src/main/java/cz/muni/fi/dao/impl/KitDaoImpl.java
+/Users/srogy/Documents/workspace/LegoManager/persistence-layer/src/main/java/cz/muni/fi/dao/impl/PartBlueprintDaoImpl.java
+/Users/srogy/Documents/workspace/LegoManager/persistence-layer/src/main/java/cz/muni/fi/dao/impl/PartDaoImpl.java
+/Users/srogy/Documents/workspace/LegoManager/persistence-layer/src/main/java/cz/muni/fi/entity/Category.java
+/Users/srogy/Documents/workspace/LegoManager/persistence-layer/src/main/java/cz/muni/fi/dao/impl/CategoryDaoImpl.java
+/Users/srogy/Documents/workspace/LegoManager/persistence-layer/src/main/java/cz/muni/fi/dao/KitDao.java

@@ -1,0 +1,17 @@
+cz/muni/fi/dao/impl/CategoryDaoImpl.class
+cz/muni/fi/dao/KitDao.class
+cz/muni/fi/dao/CategoryDao.class
+cz/muni/fi/entity/Kit.class
+cz/muni/fi/dao/GeneralDao.class
+cz/muni/fi/dao/impl/PartBlueprintDaoImpl.class
+cz/muni/fi/dao/impl/KitSetDaoImpl.class
+cz/muni/fi/entity/Part.class
+cz/muni/fi/entity/PartBlueprint.class
+cz/muni/fi/dao/KitSetDao.class
+cz/muni/fi/dao/impl/PartDaoImpl.class
+cz/muni/fi/entity/KitSet.class
+cz/muni/fi/entity/Category.class
+cz/muni/fi/dao/PartBlueprintDao.class
+cz/muni/fi/dao/impl/KitDaoImpl.class
+cz/muni/fi/dao/impl/GeneralDaoImpl.class
+cz/muni/fi/dao/PartDao.class

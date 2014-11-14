@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4776" started-at="2014-11-10T21:35:55Z" finished-at="2014-11-10T21:36:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4776" started-at="2014-11-10T21:35:55Z" finished-at="2014-11-10T21:36:00Z">
+      <class name="cz.muni.fi.KitDaoTest">
+        <test-method status="PASS" signature="springTestContextBeforeTestClass()[pri:0, instance:cz.muni.fi.KitDaoTest@203f980d]" name="springTestContextBeforeTestClass" is-config="true" duration-ms="1" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestClass -->
+        <test-method status="PASS" signature="springTestContextPrepareTestInstance()[pri:0, instance:cz.muni.fi.KitDaoTest@203f980d]" name="springTestContextPrepareTestInstance" is-config="true" duration-ms="215" started-at="2014-11-10T22:35:59Z" depends-on-methods="org.springframework.test.context.testng.AbstractTestNGSpringContextTests.springTestContextBeforeTestClass" finished-at="2014-11-10T22:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextPrepareTestInstance -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:cz.muni.fi.KitDaoTest@203f980d]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cz.muni.fi.KitDaoTest.findKit()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:cz.muni.fi.KitDaoTest@203f980d]" name="setup" is-config="true" duration-ms="7" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="findKit()[pri:0, instance:cz.muni.fi.KitDaoTest@203f980d]" name="findKit" duration-ms="6" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findKit -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:cz.muni.fi.KitDaoTest@203f980d]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="9" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cz.muni.fi.KitDaoTest.findKit()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:cz.muni.fi.KitDaoTest@203f980d]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="252" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cz.muni.fi.KitDaoTest.removeKits()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:cz.muni.fi.KitDaoTest@203f980d]" name="setup" is-config="true" duration-ms="31" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="removeKits()[pri:0, instance:cz.muni.fi.KitDaoTest@203f980d]" name="removeKits" duration-ms="45" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeKits -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:cz.muni.fi.KitDaoTest@203f980d]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="15" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cz.muni.fi.KitDaoTest.removeKits()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextAfterTestClass()[pri:0, instance:cz.muni.fi.KitDaoTest@203f980d]" name="springTestContextAfterTestClass" is-config="true" duration-ms="1" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestClass -->
+      </class> <!-- cz.muni.fi.KitDaoTest -->
+      <class name="cz.muni.fi.CategoryDaoTest">
+        <test-method status="PASS" signature="springTestContextBeforeTestClass()[pri:0, instance:cz.muni.fi.CategoryDaoTest@114c37d]" name="springTestContextBeforeTestClass" is-config="true" duration-ms="0" started-at="2014-11-10T22:35:58Z" finished-at="2014-11-10T22:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestClass -->
+        <test-method status="PASS" signature="springTestContextPrepareTestInstance()[pri:0, instance:cz.muni.fi.CategoryDaoTest@114c37d]" name="springTestContextPrepareTestInstance" is-config="true" duration-ms="329" started-at="2014-11-10T22:35:58Z" depends-on-methods="org.springframework.test.context.testng.AbstractTestNGSpringContextTests.springTestContextBeforeTestClass" finished-at="2014-11-10T22:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextPrepareTestInstance -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:cz.muni.fi.CategoryDaoTest@114c37d]" name="setup" is-config="true" duration-ms="3" started-at="2014-11-10T22:35:58Z" finished-at="2014-11-10T22:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:cz.muni.fi.CategoryDaoTest@114c37d]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2014-11-10T22:35:58Z" finished-at="2014-11-10T22:35:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cz.muni.fi.CategoryDaoTest.entityRemove()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="entityRemove()[pri:0, instance:cz.muni.fi.CategoryDaoTest@114c37d]" name="entityRemove" duration-ms="28" started-at="2014-11-10T22:35:58Z" finished-at="2014-11-10T22:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entityRemove -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:cz.muni.fi.CategoryDaoTest@114c37d]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="12" started-at="2014-11-10T22:35:58Z" finished-at="2014-11-10T22:35:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cz.muni.fi.CategoryDaoTest.entityRemove()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextAfterTestClass()[pri:0, instance:cz.muni.fi.CategoryDaoTest@114c37d]" name="springTestContextAfterTestClass" is-config="true" duration-ms="1" started-at="2014-11-10T22:35:58Z" finished-at="2014-11-10T22:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestClass -->
+      </class> <!-- cz.muni.fi.CategoryDaoTest -->
+      <class name="cz.muni.fi.GeneralDaoTest">
+        <test-method status="PASS" signature="springTestContextBeforeTestClass()[pri:0, instance:cz.muni.fi.GeneralDaoTest@7faf9b87]" name="springTestContextBeforeTestClass" is-config="true" duration-ms="0" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestClass -->
+        <test-method status="PASS" signature="springTestContextPrepareTestInstance()[pri:0, instance:cz.muni.fi.GeneralDaoTest@7faf9b87]" name="springTestContextPrepareTestInstance" is-config="true" duration-ms="193" started-at="2014-11-10T22:35:59Z" depends-on-methods="org.springframework.test.context.testng.AbstractTestNGSpringContextTests.springTestContextBeforeTestClass" finished-at="2014-11-10T22:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextPrepareTestInstance -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:cz.muni.fi.GeneralDaoTest@7faf9b87]" name="setup" is-config="true" duration-ms="10" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:cz.muni.fi.GeneralDaoTest@7faf9b87]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cz.muni.fi.GeneralDaoTest.findCategories()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="findCategories()[pri:0, instance:cz.muni.fi.GeneralDaoTest@7faf9b87]" name="findCategories" duration-ms="7" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findCategories -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:cz.muni.fi.GeneralDaoTest@7faf9b87]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="15" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cz.muni.fi.GeneralDaoTest.findCategories()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:cz.muni.fi.GeneralDaoTest@7faf9b87]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="197" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:36:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cz.muni.fi.GeneralDaoTest.removeCategories()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:cz.muni.fi.GeneralDaoTest@7faf9b87]" name="setup" is-config="true" duration-ms="4" started-at="2014-11-10T22:36:00Z" finished-at="2014-11-10T22:36:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="removeCategories()[pri:0, instance:cz.muni.fi.GeneralDaoTest@7faf9b87]" name="removeCategories" duration-ms="30" started-at="2014-11-10T22:36:00Z" finished-at="2014-11-10T22:36:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeCategories -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:cz.muni.fi.GeneralDaoTest@7faf9b87]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="7" started-at="2014-11-10T22:36:00Z" finished-at="2014-11-10T22:36:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cz.muni.fi.GeneralDaoTest.removeCategories()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextAfterTestClass()[pri:0, instance:cz.muni.fi.GeneralDaoTest@7faf9b87]" name="springTestContextAfterTestClass" is-config="true" duration-ms="1" started-at="2014-11-10T22:36:00Z" finished-at="2014-11-10T22:36:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestClass -->
+      </class> <!-- cz.muni.fi.GeneralDaoTest -->
+      <class name="cz.muni.fi.KitSetDaoTest">
+        <test-method status="PASS" signature="springTestContextBeforeTestClass()[pri:0, instance:cz.muni.fi.KitSetDaoTest@5e14e28c]" name="springTestContextBeforeTestClass" is-config="true" duration-ms="0" started-at="2014-11-10T22:35:58Z" finished-at="2014-11-10T22:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestClass -->
+        <test-method status="PASS" signature="springTestContextPrepareTestInstance()[pri:0, instance:cz.muni.fi.KitSetDaoTest@5e14e28c]" name="springTestContextPrepareTestInstance" is-config="true" duration-ms="289" started-at="2014-11-10T22:35:58Z" depends-on-methods="org.springframework.test.context.testng.AbstractTestNGSpringContextTests.springTestContextBeforeTestClass" finished-at="2014-11-10T22:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextPrepareTestInstance -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:cz.muni.fi.KitSetDaoTest@5e14e28c]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="0" started-at="2014-11-10T22:35:58Z" finished-at="2014-11-10T22:35:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cz.muni.fi.KitSetDaoTest.findKitSet()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:cz.muni.fi.KitSetDaoTest@5e14e28c]" name="setup" is-config="true" duration-ms="10" started-at="2014-11-10T22:35:58Z" finished-at="2014-11-10T22:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="findKitSet()[pri:0, instance:cz.muni.fi.KitSetDaoTest@5e14e28c]" name="findKitSet" duration-ms="7" started-at="2014-11-10T22:35:58Z" finished-at="2014-11-10T22:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findKitSet -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:cz.muni.fi.KitSetDaoTest@5e14e28c]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="17" started-at="2014-11-10T22:35:58Z" finished-at="2014-11-10T22:35:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cz.muni.fi.KitSetDaoTest.findKitSet()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:cz.muni.fi.KitSetDaoTest@5e14e28c]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="163" started-at="2014-11-10T22:35:58Z" finished-at="2014-11-10T22:35:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cz.muni.fi.KitSetDaoTest.removeKitSets()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:cz.muni.fi.KitSetDaoTest@5e14e28c]" name="setup" is-config="true" duration-ms="8" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="removeKitSets()[pri:0, instance:cz.muni.fi.KitSetDaoTest@5e14e28c]" name="removeKitSets" duration-ms="15" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeKitSets -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:cz.muni.fi.KitSetDaoTest@5e14e28c]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="8" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cz.muni.fi.KitSetDaoTest.removeKitSets()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextAfterTestClass()[pri:0, instance:cz.muni.fi.KitSetDaoTest@5e14e28c]" name="springTestContextAfterTestClass" is-config="true" duration-ms="0" started-at="2014-11-10T22:35:59Z" finished-at="2014-11-10T22:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestClass -->
+      </class> <!-- cz.muni.fi.KitSetDaoTest -->
+      <class name="cz.muni.fi.PartDaoTest">
+        <test-method status="PASS" signature="springTestContextBeforeTestClass()[pri:0, instance:cz.muni.fi.PartDaoTest@366c111d]" name="springTestContextBeforeTestClass" is-config="true" duration-ms="11" started-at="2014-11-10T22:35:55Z" finished-at="2014-11-10T22:35:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestClass -->
+        <test-method status="PASS" signature="springTestContextPrepareTestInstance()[pri:0, instance:cz.muni.fi.PartDaoTest@366c111d]" name="springTestContextPrepareTestInstance" is-config="true" duration-ms="2249" started-at="2014-11-10T22:35:55Z" depends-on-methods="org.springframework.test.context.testng.AbstractTestNGSpringContextTests.springTestContextBeforeTestClass" finished-at="2014-11-10T22:35:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextPrepareTestInstance -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:cz.muni.fi.PartDaoTest@366c111d]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2014-11-10T22:35:57Z" finished-at="2014-11-10T22:35:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cz.muni.fi.PartDaoTest.findPart()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:cz.muni.fi.PartDaoTest@366c111d]" name="setup" is-config="true" duration-ms="107" started-at="2014-11-10T22:35:57Z" finished-at="2014-11-10T22:35:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="findPart()[pri:0, instance:cz.muni.fi.PartDaoTest@366c111d]" name="findPart" duration-ms="130" started-at="2014-11-10T22:35:57Z" finished-at="2014-11-10T22:35:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findPart -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:cz.muni.fi.PartDaoTest@366c111d]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="20" started-at="2014-11-10T22:35:57Z" finished-at="2014-11-10T22:35:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cz.muni.fi.PartDaoTest.findPart()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:cz.muni.fi.PartDaoTest@366c111d]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="237" started-at="2014-11-10T22:35:57Z" finished-at="2014-11-10T22:35:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cz.muni.fi.PartDaoTest.removeParts()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:cz.muni.fi.PartDaoTest@366c111d]" name="setup" is-config="true" duration-ms="11" started-at="2014-11-10T22:35:58Z" finished-at="2014-11-10T22:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="removeParts()[pri:0, instance:cz.muni.fi.PartDaoTest@366c111d]" name="removeParts" duration-ms="36" started-at="2014-11-10T22:35:58Z" finished-at="2014-11-10T22:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeParts -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:cz.muni.fi.PartDaoTest@366c111d]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="12" started-at="2014-11-10T22:35:58Z" finished-at="2014-11-10T22:35:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cz.muni.fi.PartDaoTest.removeParts()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextAfterTestClass()[pri:0, instance:cz.muni.fi.PartDaoTest@366c111d]" name="springTestContextAfterTestClass" is-config="true" duration-ms="0" started-at="2014-11-10T22:35:58Z" finished-at="2014-11-10T22:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestClass -->
+      </class> <!-- cz.muni.fi.PartDaoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
